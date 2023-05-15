@@ -17,7 +17,6 @@ Repositorio público utilizado para aplicar los conceptos de gestión de configu
 ### Integrantes:
 
 - Balmaceda Uema, Florencia - Legajo: 67636
-- Camargo, Daysi - Legajo: 84200
 - Cornier Scocco, M. Florencia - Legajo: 71634
 - Delgado, Francisco Martin - Legajo: 59887
 - Panero, Agustin - Legajo: 70850
