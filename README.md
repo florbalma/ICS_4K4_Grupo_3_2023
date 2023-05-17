@@ -18,7 +18,6 @@ Repositorio público utilizado para aplicar los conceptos de gestión de configu
 
 - Balmaceda Uema, Florencia - Legajo: 67636
 - Cornier Scocco, M. Florencia - Legajo: 71634
-- Delgado, Francisco Martin - Legajo: 59887
 - Panero, Agustin - Legajo: 70850
 - Pellegrini, Monica Leticia - Legajo: 32188
 
